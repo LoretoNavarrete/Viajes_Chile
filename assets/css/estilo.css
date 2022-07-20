@@ -1,3 +1,4 @@
+/*aspectos generales del sitio*/
 body {
     font-family: 'Open Sans', sans-serif;
     margin: 0;
@@ -28,16 +29,13 @@ html {
     background-color: #2DA0AD;
   }
 
-/*carrusel*/
+
 
 /*quienes somos*/
 #quienes-somos h4{
     padding-top: 2em;
     text-align: center;
 }
-
-
-
 
 /*tarjetas*/
   
@@ -54,18 +52,6 @@ html {
 
 }
 
-
-
-/*tarjetas
-.row {
-    display: flex;
-    flex-wrap: wrap;
- }
- 
- .row > div[class*='col-'] {
-   display: flex;
- }
- */
 
 /*destacados*/
 #destacados h4{
@@ -88,6 +74,8 @@ html {
 #formulario-contacto {
     padding-bottom: 2em;
 }
+
+/*botón de formulario de contacto*/
 
 .boton-enviar {
     background-color: #0DCAF0;
